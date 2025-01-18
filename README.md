@@ -1,4 +1,4 @@
-# Coffe-project https://github.com/sachinbadgujar-git/coffe-project.git
+# Coffe-project 
 
 Welcome to the Coffee Project! This project is a responsive and visually appealing website designed to showcase a coffee shop's offerings, services, and ambiance. Built using HTML and CSS, it highlights modern web design principles and provides a great user experience.
 
@@ -28,9 +28,9 @@ coffee-project/
 ## How to Use
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/sachinbadgujar-git/coffe-project.git
-   ```
+  
+   https://github.com/sachinbadgujar-git/coffe-project.git
+  
 
 2. Open the `index.html` file in your web browser to view the website.
 
